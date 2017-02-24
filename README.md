@@ -1,5 +1,5 @@
 ##woicon 字体图标库 1000+字体图标
-[!(https://img.shields.io/badge/vison-0.1-red.svg)]
+![versions 1.0](https://img.shields.io/badge/versions-1.0-orange.svg?style=flat-square)
 做了很多项目，画了很多图标、然后就有建立一套字体图标库的想法、希望大家喜欢😁😁！
 并且提供多种设计源文件格式(AI,SKETCH,SVG,PNG,PSD)下载！
 ########
