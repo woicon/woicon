@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/filtrate</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ico/filtrate" fill="#5A616A">
+            <path d="M19,10 C19,5.02928475 14.9707153,1 10,1 C5.02928475,1 1,5.02928475 1,10 C1,14.9707153 5.02928475,19 10,19 C14.9707153,19 19,14.9707153 19,10 Z M20,10 C20,15.523 15.523,20 10,20 C4.477,20 0,15.523 0,10 C0,4.477 4.477,0 10,0 C15.523,0 20,4.477 20,10 Z M5.7885,6.288 L14.212,6.288 L14.212,6.4171025 L10.4423656,10.4514543 L10.3885,10.588 L10.3885,16.2 L11.3765,16.2 L11.3765,10.9608975 L15.1461344,6.9265457 L15.2,6.79 L15.2,5.3 L4.8,5.3 L4.8,6.79 L4.85906188,6.93190294 L8.624,10.6712426 L8.624,15.3175 L9.612,15.3175 L9.612,10.294 L9.5529474,10.1521063 L5.7885,6.41276503 L5.7885,6.288 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
