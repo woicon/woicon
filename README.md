@@ -4,7 +4,7 @@
 并且提供多种设计源文件格式(AI,SKETCH,SVG,PNG,PSD)下载！
 ########
 ########
-字体图标预览
+字体图标在线预览
 [www.woicon.com/font](http://woicon.com/font)
 ###开源协议
 本项目基于[MIT许可证](https://zh.wikipedia.org/wiki/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89)协议，请自由的享受和参与开源。
